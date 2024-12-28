@@ -1,5 +1,5 @@
 <h1>Subject</h1>
-This is the <a href="https://github.com/joburgos77/subjects/blob/main/es.subject.pdf" rel="nofollow">subject</a>for this project.
+This is the <a href="https://github.com/joburgos77/subjects/blob/main/es.subject.pdf" rel="nofollow"> subject</a>for this project.
 
 <b>Introduction</b>
 Welcome to the ft_printf project! This project is part of the curriculum at 42 Málaga and aims to develop your understanding of variadic functions and string formatting in the C programming language. ft_printf is a custom implementation of the printf function, which allows for formatted output to the standard output stream.
